@@ -1,0 +1,5546 @@
+[
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 57,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 12,
+      "retweet_count": 5
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 8,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 20,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 8,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 54,
+      "retweet_count": 6
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 129,
+      "retweet_count": 9
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 22,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 12,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 6,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 642,
+      "retweet_count": 57
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 7,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 102,
+      "retweet_count": 15
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 35,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 12,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 71,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 91,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 46,
+      "retweet_count": 18
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 85,
+      "retweet_count": 8
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 59,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 199,
+      "retweet_count": 94
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 84,
+      "retweet_count": 38
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 13,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 18,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 44,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 34,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 52,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 37,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 44,
+      "retweet_count": 11
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 72,
+      "retweet_count": 18
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 5,
+      "retweet_count": 6
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 81,
+      "retweet_count": 11
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 15,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 76,
+      "retweet_count": 31
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 8,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 24,
+      "retweet_count": 16
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 7,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 20,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 18,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 18,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 15,
+      "retweet_count": 6
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 203,
+      "retweet_count": 42
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 98,
+      "retweet_count": 7
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 24,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 7,
+      "retweet_count": 5
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": null,
+      "like_count": null,
+      "retweet_count": null
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 64,
+      "retweet_count": 12
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 13,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 12,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 14,
+      "retweet_count": 5
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 73,
+      "retweet_count": 18
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 68,
+      "retweet_count": 21
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 5,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 5,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 6
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 10,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 10,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 140,
+      "retweet_count": 38
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 6,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 19,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 8,
+      "retweet_count": 4
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2423,
+      "retweet_count": 1236
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 49,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 5,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 21,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 3,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 48,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 50,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 22,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 78,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 24,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 2,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 12,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 11,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 38,
+      "retweet_count": 2
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 4,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 1
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 3,
+      "retweet_count": 3
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 1,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "fake",
+      "like_count": 34,
+      "retweet_count": 14
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  },
+  {
+    "tweet": {
+      "fact_check": "real",
+      "like_count": 0,
+      "retweet_count": 0
+    }
+  }
+]

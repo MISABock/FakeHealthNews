@@ -1,0 +1,37 @@
+*alle AUTHOR und TWEET anzeigen lassen*
+    MATCH (n)
+    WHERE n:Tweet OR n:Author
+    RETURN n
+--------------------------------------------------------------------------------------------------
+
+*alle TWEET anzeigen lassen, welche schon Mal retweeted wurden. AUTHOR --retweeted--> TWEET"
+    MATCH (author:Author)-[:REPOSTED]->(tweet:Tweet)
+    RETURN author, tweet
+--------------------------------------------------------------------------------------------------
+
+*alle TWEET anzeigen lassen, welche mindesten 3 Mal retweeted wuden.
+    MATCH (author:Author)-[:REPOSTED]->(tweet:Tweet)
+    WITH tweet, COUNT(author) AS repostCount
+    WHERE repostCount >= 3
+    MATCH (author:Author)-[:REPOSTED]->(tweet)
+    RETURN tweet, repostCount, COLLECT(author) AS authors
+--------------------------------------------------------------------------------------------------
+
+*alle Tweet dich von CHATGPT als "REAL" klassifiziert wurden inkl. AUTHOR*
+    MATCH (author:Author)-[rel]->(tweet:Tweet)
+    WHERE tweet.fact_check = "real"
+    RETURN tweet, COLLECT(DISTINCT author) AS authors
+--------------------------------------------------------------------------------------------------
+
+*alle Tweet dich von CHATGPT als "FAKE" klassifiziert wurden inkl. AUTHOR*
+    MATCH (author:Author)-[rel]->(tweet:Tweet)
+    WHERE tweet.fact_check = "real"
+    RETURN tweet, COLLECT(DISTINCT author) AS authors
+--------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+

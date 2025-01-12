@@ -1,0 +1,5077 @@
+[
+  {
+    "author_id": 783794,
+    "tweet_time": "2024-12-16T23:48:27+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2425231,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 5695032,
+    "tweet_time": "2024-12-15T21:04:05+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 6509832,
+    "tweet_time": "2024-12-24T12:00:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 12612432,
+    "tweet_time": "2024-11-14T21:18:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 14083041,
+    "tweet_time": "2024-12-15T12:30:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 14444057,
+    "tweet_time": "2024-11-13T01:02:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 16532435,
+    "tweet_time": "2024-12-17T04:35:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 17027495,
+    "tweet_time": "2024-12-26T18:06:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 18121293,
+    "tweet_time": "2024-12-17T11:54:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 18304622,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 19335469,
+    "tweet_time": "2024-12-17T05:52:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 19616562,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 19968074,
+    "tweet_time": "2024-12-10T15:57:16+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 20071369,
+    "tweet_time": "2024-11-15T05:48:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 21862233,
+    "tweet_time": "2024-12-11T23:32:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 23903458,
+    "tweet_time": "2024-12-17T04:12:48+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 25267789,
+    "tweet_time": "2024-12-12T15:41:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 26613127,
+    "tweet_time": "2024-11-15T00:55:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 26855173,
+    "tweet_time": "2024-12-17T00:37:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 29134593,
+    "tweet_time": "2024-12-16T20:40:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 29932316,
+    "tweet_time": "2024-11-14T06:35:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 29932316,
+    "tweet_time": "2024-11-14T06:35:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 30701862,
+    "tweet_time": "2024-12-12T15:32:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 32204450,
+    "tweet_time": "2024-11-14T23:42:53+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 33599031,
+    "tweet_time": "2024-12-17T13:03:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 36087451,
+    "tweet_time": "2024-11-10T12:35:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 36119194,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 36119194,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 36384558,
+    "tweet_time": "2024-11-11T00:28:50+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 36384558,
+    "tweet_time": "2024-11-11T21:59:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 37034483,
+    "tweet_time": "2024-12-12T04:58:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 39857206,
+    "tweet_time": "2024-11-15T09:45:24+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 40392655,
+    "tweet_time": "2024-11-15T02:22:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 43403943,
+    "tweet_time": "2024-11-15T11:47:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 44550547,
+    "tweet_time": "2024-12-17T14:06:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 44573820,
+    "tweet_time": "2024-12-17T02:15:06+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 45525864,
+    "tweet_time": "2024-11-14T23:58:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 46720009,
+    "tweet_time": "2024-12-12T15:00:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 50677666,
+    "tweet_time": "2024-11-10T19:50:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 51167293,
+    "tweet_time": "2024-11-14T19:50:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 51939538,
+    "tweet_time": "2024-12-17T07:05:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 52276983,
+    "tweet_time": "2024-11-14T23:50:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 57604881,
+    "tweet_time": "2024-12-13T09:03:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 58128860,
+    "tweet_time": "2024-11-13T02:26:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 58785881,
+    "tweet_time": "2024-12-14T06:51:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 59506499,
+    "tweet_time": "2024-11-14T19:12:38+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 61367173,
+    "tweet_time": "2024-11-11T05:11:16+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 63960389,
+    "tweet_time": "2024-12-24T19:08:28+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 65341621,
+    "tweet_time": "2024-12-15T14:19:05+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 67434846,
+    "tweet_time": "2024-12-13T19:50:13+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 80052851,
+    "tweet_time": "2024-12-13T10:16:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 82431632,
+    "tweet_time": "2024-11-14T22:33:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 82431632,
+    "tweet_time": "2024-11-14T22:35:50+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 82752733,
+    "tweet_time": "2024-12-14T16:49:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 88178327,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 88681341,
+    "tweet_time": "2024-11-12T06:18:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 90614279,
+    "tweet_time": "2024-12-10T17:01:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 91402704,
+    "tweet_time": "2024-12-14T20:19:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 102824010,
+    "tweet_time": "2024-11-12T16:05:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 104731600,
+    "tweet_time": "2024-11-11T12:23:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 110741164,
+    "tweet_time": "2024-11-12T15:42:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 111322905,
+    "tweet_time": "2024-11-09T13:13:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 117694221,
+    "tweet_time": "2024-11-15T07:43:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 118471283,
+    "tweet_time": "2024-12-17T13:04:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 120782519,
+    "tweet_time": "2024-11-13T22:10:22+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 121572465,
+    "tweet_time": "2024-12-17T03:53:36+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 123199183,
+    "tweet_time": "2024-11-10T10:52:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 125311492,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 130214007,
+    "tweet_time": "2024-12-16T21:48:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 137090089,
+    "tweet_time": "2024-11-15T01:42:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 139182533,
+    "tweet_time": "2024-11-12T10:45:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 147935871,
+    "tweet_time": "2024-12-16T10:38:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 152322198,
+    "tweet_time": "2024-12-17T08:02:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 158829285,
+    "tweet_time": "2024-11-15T08:54:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 162560612,
+    "tweet_time": "2024-12-16T14:29:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 163446541,
+    "tweet_time": "2024-12-12T14:23:24+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 164718384,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 201955922,
+    "tweet_time": "2024-12-16T16:49:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 203032530,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 213861440,
+    "tweet_time": "2024-12-13T17:34:29+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 217028904,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 218538215,
+    "tweet_time": "2024-12-12T18:48:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 221833085,
+    "tweet_time": "2024-12-16T16:56:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 223011946,
+    "tweet_time": "2024-12-14T16:00:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 226470945,
+    "tweet_time": "2024-11-15T09:57:01+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 230667086,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 233991388,
+    "tweet_time": "2024-12-16T22:58:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 235115427,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 237094006,
+    "tweet_time": "2024-12-11T12:00:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 237800553,
+    "tweet_time": "2024-12-16T15:44:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 241358948,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 246565746,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 249998944,
+    "tweet_time": "2024-12-13T12:43:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 251869750,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 255817753,
+    "tweet_time": "2024-12-24T20:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 257812988,
+    "tweet_time": "2024-11-15T02:59:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 262101644,
+    "tweet_time": "2024-12-11T19:00:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 268713532,
+    "tweet_time": "2024-12-15T03:25:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 269855513,
+    "tweet_time": "2024-12-17T00:56:57+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 270459817,
+    "tweet_time": "2024-11-15T10:36:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 272081843,
+    "tweet_time": "2024-12-15T18:15:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 275471220,
+    "tweet_time": "2024-12-12T19:03:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 277502460,
+    "tweet_time": "2024-12-17T13:09:47+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 283718275,
+    "tweet_time": "2024-12-17T13:33:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 293640169,
+    "tweet_time": "2024-12-12T07:14:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 295693924,
+    "tweet_time": "2024-12-25T22:30:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 303756525,
+    "tweet_time": "2024-11-13T03:45:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 309621851,
+    "tweet_time": "2024-11-14T07:12:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 318952530,
+    "tweet_time": "2024-12-16T14:22:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 328986215,
+    "tweet_time": "2024-11-15T03:30:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 330826792,
+    "tweet_time": "2024-11-15T06:59:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 331072409,
+    "tweet_time": "2024-11-15T09:26:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 347781439,
+    "tweet_time": "2024-12-24T16:55:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 356406630,
+    "tweet_time": "2024-12-12T19:33:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 363375680,
+    "tweet_time": "2024-12-26T16:03:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 371974537,
+    "tweet_time": "2024-12-16T23:39:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 373452675,
+    "tweet_time": "2024-12-11T15:15:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 403441250,
+    "tweet_time": "2024-12-16T19:07:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 404132787,
+    "tweet_time": "2024-12-16T17:56:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 404819771,
+    "tweet_time": "2024-12-24T16:45:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 417594732,
+    "tweet_time": "2024-11-15T01:41:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 417594732,
+    "tweet_time": "2024-11-15T11:38:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 423502106,
+    "tweet_time": "2024-12-25T12:55:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 423502106,
+    "tweet_time": "2024-12-27T11:00:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 423502106,
+    "tweet_time": "2024-12-27T11:01:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 424311783,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 430223309,
+    "tweet_time": "2024-12-16T19:50:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 444378105,
+    "tweet_time": "2024-11-15T01:15:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 444378105,
+    "tweet_time": "2024-12-20T19:48:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 444378105,
+    "tweet_time": "2024-12-23T17:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 450057244,
+    "tweet_time": "2024-12-25T06:20:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 542963254,
+    "tweet_time": "2024-12-17T11:01:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 552765332,
+    "tweet_time": "2024-11-12T23:59:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 553640667,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 554960471,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 573769879,
+    "tweet_time": "2024-11-15T11:03:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 574425832,
+    "tweet_time": "2024-11-15T09:33:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 590787034,
+    "tweet_time": "2024-11-14T18:47:11+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 616622892,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 618294835,
+    "tweet_time": "2024-12-17T01:23:24+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 625926337,
+    "tweet_time": "2024-12-16T20:50:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 633255857,
+    "tweet_time": "2024-12-17T14:23:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 633485882,
+    "tweet_time": "2024-12-16T07:14:16+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 706465256,
+    "tweet_time": "2024-12-17T01:19:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 761671586,
+    "tweet_time": "2024-12-22T07:25:01+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 807159235,
+    "tweet_time": "2024-11-13T18:14:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 816840528,
+    "tweet_time": "2024-12-17T06:26:08+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 849293340,
+    "tweet_time": "2024-12-14T06:48:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 884893716,
+    "tweet_time": "2024-11-14T01:36:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 892680752,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 909221773,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 961493023,
+    "tweet_time": "2024-12-17T05:02:06+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 963699564,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 979302104,
+    "tweet_time": "2024-12-17T12:08:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1001408503,
+    "tweet_time": "2024-12-17T11:45:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1007183857,
+    "tweet_time": "2024-11-14T17:36:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1041043476,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1058511822,
+    "tweet_time": "2024-12-12T20:15:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1065887370,
+    "tweet_time": "2024-11-15T04:45:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1080544676,
+    "tweet_time": "2024-11-12T21:46:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1117081308,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1165936669,
+    "tweet_time": "2024-12-16T23:43:20+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1206000288,
+    "tweet_time": "2024-12-23T10:18:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1211315892,
+    "tweet_time": "2024-11-14T21:41:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1229114737,
+    "tweet_time": "2024-11-15T11:53:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1264464758,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1292706872,
+    "tweet_time": "2024-11-15T05:35:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1306313984,
+    "tweet_time": "2024-11-15T05:36:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1319034686,
+    "tweet_time": "2024-12-17T07:33:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1373112260,
+    "tweet_time": "2024-12-23T14:11:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1408094624,
+    "tweet_time": "2024-11-13T21:40:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1434670344,
+    "tweet_time": "2024-11-15T02:03:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1481829344,
+    "tweet_time": "2024-11-14T14:21:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1532681047,
+    "tweet_time": "2024-12-17T12:27:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1589793913,
+    "tweet_time": "2024-12-14T03:52:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1591644672,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1593029515,
+    "tweet_time": "2024-12-17T13:06:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1629237650,
+    "tweet_time": "2024-12-17T02:41:37+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1660063963,
+    "tweet_time": "2024-11-15T10:21:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1665015458,
+    "tweet_time": "2024-12-27T05:43:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1901033312,
+    "tweet_time": "2024-11-09T06:11:24+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1953233179,
+    "tweet_time": "2024-11-12T20:01:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2159611266,
+    "tweet_time": "2024-11-12T09:46:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2164608008,
+    "tweet_time": "2024-12-22T09:46:28+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2167814234,
+    "tweet_time": "2024-12-17T03:06:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2205326724,
+    "tweet_time": "2024-12-17T13:43:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2213162527,
+    "tweet_time": "2024-11-15T00:51:23+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2228863569,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2231068027,
+    "tweet_time": "2024-12-11T07:31:30+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2238968215,
+    "tweet_time": "2024-12-17T01:55:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2252147864,
+    "tweet_time": "2024-12-17T12:18:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2254090213,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2264061737,
+    "tweet_time": "2024-12-26T09:21:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2301754958,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2301754958,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2309498060,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2365092828,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2408391396,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2416162544,
+    "tweet_time": "2024-11-15T10:32:41+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2447372096,
+    "tweet_time": "2024-11-15T11:56:47+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2464843704,
+    "tweet_time": "2024-11-15T10:50:47+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2512281129,
+    "tweet_time": "2024-12-17T03:44:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2540613338,
+    "tweet_time": "2024-11-08T23:47:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2616223100,
+    "tweet_time": "2024-11-15T09:45:24+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2616624074,
+    "tweet_time": "2024-12-17T01:01:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2617242319,
+    "tweet_time": "2024-11-15T09:16:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2646421337,
+    "tweet_time": "2024-12-21T10:45:24+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2673574967,
+    "tweet_time": "2024-12-11T17:47:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2785410033,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2810276273,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2825115086,
+    "tweet_time": "2024-12-17T01:30:37+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 2885349600,
+    "tweet_time": "2024-11-12T17:19:04+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2885349600,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2885349600,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2932950004,
+    "tweet_time": "2024-12-11T15:13:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2936488288,
+    "tweet_time": "2024-11-14T22:45:39+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 2994938032,
+    "tweet_time": "2024-12-16T20:50:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 3124509220,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 3160945884,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3183184050,
+    "tweet_time": "2024-11-15T03:32:06+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3227218358,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 3230944180,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3238739598,
+    "tweet_time": "2024-12-16T20:19:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 3245834183,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3267784903,
+    "tweet_time": "2024-11-15T00:45:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3376321847,
+    "tweet_time": "2024-12-15T07:40:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 3377220081,
+    "tweet_time": "2024-12-27T11:33:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 3463035797,
+    "tweet_time": "2024-12-12T17:00:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 4041536773,
+    "tweet_time": "2024-11-11T22:44:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 4129578913,
+    "tweet_time": "2024-11-09T10:05:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 4162923323,
+    "tweet_time": "2024-11-15T10:00:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 4368680175,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 4423023012,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 4477751596,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 4611508512,
+    "tweet_time": "2024-11-14T23:23:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 4676564298,
+    "tweet_time": "2024-12-17T14:30:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 4882910103,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 695801676360503296,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 697312090667626496,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 715435146015473664,
+    "tweet_time": "2024-11-15T01:00:38+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 719515054345973760,
+    "tweet_time": "2024-11-15T02:49:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 722920768573562882,
+    "tweet_time": "2024-11-15T01:12:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 743256329402327040,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 751876696136089600,
+    "tweet_time": "2024-11-13T16:38:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 753021004847382528,
+    "tweet_time": "2024-12-17T13:23:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 761342906347167745,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 771029903839858689,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 781407559819235328,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 784934631032365057,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 787405983433752576,
+    "tweet_time": "2024-11-10T18:39:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 792119811023204352,
+    "tweet_time": "2024-12-11T08:22:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 796206111472783360,
+    "tweet_time": "2024-11-12T10:26:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 796230306420391936,
+    "tweet_time": "2024-12-11T20:57:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 807664384767971329,
+    "tweet_time": "2024-11-15T03:31:20+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 809099269433069568,
+    "tweet_time": "2024-12-17T10:18:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 820514059363569664,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 820623833220648960,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 825920335367249924,
+    "tweet_time": "2024-11-10T06:22:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 826971953705652228,
+    "tweet_time": "2024-12-16T05:23:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 827041045179461632,
+    "tweet_time": "2024-12-26T17:30:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 836835691619364866,
+    "tweet_time": "2024-12-17T12:50:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 837326477830074368,
+    "tweet_time": "2024-12-12T02:58:53+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 837326477830074368,
+    "tweet_time": "2024-12-12T02:59:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 847516239769587712,
+    "tweet_time": "2024-12-13T13:36:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 847518905686003716,
+    "tweet_time": "2024-12-12T20:18:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 870665658937163776,
+    "tweet_time": "2024-12-12T08:43:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 870665658937163776,
+    "tweet_time": "2024-12-17T00:44:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 870665658937163776,
+    "tweet_time": "2024-12-17T07:39:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 871219192959180802,
+    "tweet_time": "2024-11-15T07:24:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 871605719795089408,
+    "tweet_time": "2024-11-09T02:31:10+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 871605719795089408,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 871605719795089408,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 872173323093987329,
+    "tweet_time": "2024-11-13T07:11:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 877088656049176576,
+    "tweet_time": "2024-12-11T10:54:53+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 878491598669062144,
+    "tweet_time": "2024-11-15T10:53:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 878928680445247488,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 879663696330575873,
+    "tweet_time": "2024-11-15T11:53:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 896075661722492937,
+    "tweet_time": "2024-12-16T12:02:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 896075661722492937,
+    "tweet_time": "2024-12-16T12:03:28+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 907459841647566848,
+    "tweet_time": "2024-11-08T15:16:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 907459841647566848,
+    "tweet_time": "2024-11-08T15:16:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 907459841647566848,
+    "tweet_time": "2024-11-08T15:17:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 910746436660269056,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 912146718099148800,
+    "tweet_time": "2024-11-12T10:45:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 915083619722563584,
+    "tweet_time": "2024-12-16T11:06:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 918558480801263616,
+    "tweet_time": "2024-11-15T03:39:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 920137601457250305,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 922141515241140225,
+    "tweet_time": "2024-12-17T10:40:30+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 924907360149270528,
+    "tweet_time": "2024-11-15T06:15:10+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 925206093290246146,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 927041250586378240,
+    "tweet_time": "2024-12-24T11:00:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 932153888840417281,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 941461031229980673,
+    "tweet_time": "2024-11-15T08:02:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 947928003455193089,
+    "tweet_time": "2024-11-15T00:47:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 949052398701563904,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 951495076915621888,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 956570757383053313,
+    "tweet_time": "2024-12-16T17:51:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 958222184023019521,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 965272867855314944,
+    "tweet_time": "2024-12-17T10:23:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 965601540571521024,
+    "tweet_time": "2024-12-17T02:42:32+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 966360166420623360,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 967989799935250432,
+    "tweet_time": "2024-11-12T20:52:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 969172081148678145,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 969246519084965889,
+    "tweet_time": "2024-12-24T13:55:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 969246519084965889,
+    "tweet_time": "2024-12-24T16:24:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 969246519084965889,
+    "tweet_time": "2024-12-24T16:24:57+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 978488368727232517,
+    "tweet_time": "2024-12-17T07:46:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 984840049090015233,
+    "tweet_time": "2024-12-17T10:43:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 987564099918860288,
+    "tweet_time": "2024-12-16T22:27:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 991368234346594304,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 991368234346594304,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 991368234346594304,
+    "tweet_time": "2024-11-15T02:01:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 991368234346594304,
+    "tweet_time": "2024-11-15T02:01:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 997638830332067846,
+    "tweet_time": "2024-12-17T09:08:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1005738156665106433,
+    "tweet_time": "2024-12-14T21:01:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1018669756260503553,
+    "tweet_time": "2024-12-15T00:08:20+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1024228367317573633,
+    "tweet_time": "2024-12-11T14:03:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1025160408200622080,
+    "tweet_time": "2024-11-14T08:21:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1039413040226033666,
+    "tweet_time": "2024-12-24T20:30:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1039761862106210307,
+    "tweet_time": "2024-12-17T06:00:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1043945669134864385,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1044268321930137601,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1046730615972929537,
+    "tweet_time": "2024-12-17T09:31:57+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1058852277933563904,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1069013230947876864,
+    "tweet_time": "2024-11-08T20:53:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1069318801576075265,
+    "tweet_time": "2024-11-10T13:54:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1071489100555927552,
+    "tweet_time": "2024-12-16T19:40:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1072924027935752192,
+    "tweet_time": "2024-12-17T09:20:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1074596425961562112,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1075811784156688384,
+    "tweet_time": "2024-12-24T12:22:23+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1082150518028419074,
+    "tweet_time": "2024-12-16T12:35:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1082150518028419074,
+    "tweet_time": "2024-12-26T06:05:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1084952286227361797,
+    "tweet_time": "2024-12-14T02:01:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1090012514820280324,
+    "tweet_time": "2024-12-17T12:02:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1090944844841676800,
+    "tweet_time": "2024-12-25T06:42:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1096821771460796418,
+    "tweet_time": "2024-12-27T06:02:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1107657100958810112,
+    "tweet_time": "2024-12-17T13:03:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1112233508989296640,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1112384669859876864,
+    "tweet_time": "2024-11-09T15:50:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1118796633624449024,
+    "tweet_time": "2024-12-17T09:21:28+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1118816749762301953,
+    "tweet_time": "2024-11-14T03:32:39+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1118906380545556481,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1120254295750823936,
+    "tweet_time": "2024-12-11T07:31:19+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1120254295750823936,
+    "tweet_time": "2024-12-13T07:44:57+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1120254295750823936,
+    "tweet_time": "2024-12-14T07:38:53+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1122814987922231296,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1123466292525191171,
+    "tweet_time": "2024-11-13T04:57:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1125727031407173634,
+    "tweet_time": "2024-12-23T08:43:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1134038639435010049,
+    "tweet_time": "2024-11-12T09:46:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1134340411244261381,
+    "tweet_time": "2024-11-14T12:45:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1134616416601149440,
+    "tweet_time": "2024-12-17T11:53:15+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1135880647124213761,
+    "tweet_time": "2024-12-26T09:59:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1137519290607738880,
+    "tweet_time": "2024-11-15T08:27:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1138066127077203968,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1138971686005596165,
+    "tweet_time": "2024-12-10T23:46:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1143496038616952832,
+    "tweet_time": "2024-12-14T04:30:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1143605166454792194,
+    "tweet_time": "2024-11-15T02:14:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1145056901186629633,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1145329521262047234,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1147038346381864960,
+    "tweet_time": "2024-12-15T12:52:08+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1150767309822332928,
+    "tweet_time": "2024-12-27T10:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1152502507647709184,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1158677769112477696,
+    "tweet_time": "2024-12-17T13:00:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1163350034395480064,
+    "tweet_time": "2024-12-11T08:34:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1166686257138872320,
+    "tweet_time": "2024-12-12T01:48:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1167010829310541824,
+    "tweet_time": "2024-12-16T16:12:19+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1169575729329143809,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1170459946653224960,
+    "tweet_time": "2024-11-13T19:51:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1176457295376658432,
+    "tweet_time": "2024-12-11T12:33:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1179702634128777216,
+    "tweet_time": "2024-11-12T09:46:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1182727232265052169,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1186135642633146368,
+    "tweet_time": "2024-12-25T02:30:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1195403741819740162,
+    "tweet_time": "2024-11-08T14:59:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1198378895361351687,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1207429683433922560,
+    "tweet_time": "2024-11-15T07:19:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1211313969920528386,
+    "tweet_time": "2024-11-13T16:08:53+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1215130023147032576,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1229466528564809733,
+    "tweet_time": "2024-12-17T01:03:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1231241892991422464,
+    "tweet_time": "2024-12-17T03:45:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1238140853924790279,
+    "tweet_time": "2024-12-17T03:06:10+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1239032448408674304,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1239032448408674304,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1239736219233390596,
+    "tweet_time": "2024-11-14T02:32:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1240137744858447873,
+    "tweet_time": "2024-12-11T05:22:15+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1240137744858447873,
+    "tweet_time": "2024-12-11T20:53:07+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1243132634013851649,
+    "tweet_time": "2024-11-14T21:39:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1245028684706336768,
+    "tweet_time": "2024-12-12T17:24:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1250115253138067462,
+    "tweet_time": "2024-11-15T09:16:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1250463424519311363,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1256636818310782977,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1257208357263413248,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1260646886412779520,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1261340416747560960,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1262060442911981568,
+    "tweet_time": "2024-12-15T02:44:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1267125598586982400,
+    "tweet_time": "2024-11-12T10:44:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1268985258390753280,
+    "tweet_time": "2024-11-15T03:08:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1270726978954342401,
+    "tweet_time": "2024-12-17T05:43:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1272536457618632704,
+    "tweet_time": "2024-12-15T06:30:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1274744867374206976,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1275398997147029510,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1280016066278612992,
+    "tweet_time": "2024-12-16T17:35:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1282844653994180608,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1283399790844248064,
+    "tweet_time": "2024-11-15T07:46:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1283697044511744005,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1289327550041382912,
+    "tweet_time": "2024-12-17T02:12:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1289556011053973504,
+    "tweet_time": "2024-11-14T18:03:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1290816522722709505,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1296101757106315264,
+    "tweet_time": "2024-12-13T14:29:05+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1298336958041796614,
+    "tweet_time": "2024-12-16T22:20:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1300196531803480075,
+    "tweet_time": "2024-12-17T05:08:14+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1300874956201369600,
+    "tweet_time": "2024-12-16T00:12:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1301098347051331584,
+    "tweet_time": "2024-11-15T04:30:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1301538153979928579,
+    "tweet_time": "2024-12-16T23:54:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1303348090833965058,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1307242066267832320,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1310133383645794304,
+    "tweet_time": "2024-11-15T05:33:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1321965694037200897,
+    "tweet_time": "2024-12-17T02:06:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1324767524874059780,
+    "tweet_time": "2024-12-17T13:57:39+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1325520445592887296,
+    "tweet_time": "2024-12-17T07:56:32+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1325720964500516864,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1325985376113098752,
+    "tweet_time": "2024-11-13T16:39:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1326855704477650944,
+    "tweet_time": "2024-12-17T09:47:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1327005268035645447,
+    "tweet_time": "2024-11-15T01:56:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1329773173425008640,
+    "tweet_time": "2024-11-12T23:36:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1329854522185961473,
+    "tweet_time": "2024-12-21T18:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1335580252182024196,
+    "tweet_time": "2024-12-17T07:13:22+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1338198180719161344,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1342549855823138817,
+    "tweet_time": "2024-12-14T19:42:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1343484652170821633,
+    "tweet_time": "2024-12-12T14:22:57+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1344159705875283968,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1348700645017092097,
+    "tweet_time": "2024-11-15T02:31:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1351498779439079424,
+    "tweet_time": "2024-11-15T11:44:47+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1351611323734401024,
+    "tweet_time": "2024-11-11T19:42:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1352994391808495616,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1354878678308589568,
+    "tweet_time": "2024-11-14T23:14:11+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1354956598981005316,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1355114168853032960,
+    "tweet_time": "2024-12-26T15:20:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1355692502133710848,
+    "tweet_time": "2024-11-14T22:26:23+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1358340944119144451,
+    "tweet_time": "2024-11-10T10:52:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1358475720150966274,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1359413180250865664,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1366237758356881408,
+    "tweet_time": "2024-11-15T08:01:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1370454542907813890,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1374403062144532485,
+    "tweet_time": "2024-11-11T15:40:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1376643742078271488,
+    "tweet_time": "2024-11-12T21:25:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1376643742078271488,
+    "tweet_time": "2024-11-13T06:26:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1376778261007642624,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1379851606913601536,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1382683187512365056,
+    "tweet_time": "2024-12-26T12:58:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1389696793882025987,
+    "tweet_time": "2024-12-12T06:02:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1389711993473433601,
+    "tweet_time": "2024-12-16T15:36:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1390780523547484161,
+    "tweet_time": "2024-12-10T21:45:16+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1392377989803954183,
+    "tweet_time": "2024-11-10T10:52:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1394299023960461320,
+    "tweet_time": "2024-11-08T15:56:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1394580126814326788,
+    "tweet_time": "2024-11-14T04:59:19+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1395857490911404032,
+    "tweet_time": "2024-11-10T10:52:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1401527150872645637,
+    "tweet_time": "2024-12-24T12:31:04+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1402458731045175301,
+    "tweet_time": "2024-12-16T20:20:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1404936139627245571,
+    "tweet_time": "2024-12-16T22:18:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1405698875789299712,
+    "tweet_time": "2024-11-12T23:36:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1406622514667786242,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1407863406410010625,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1409605713673035776,
+    "tweet_time": "2024-11-14T23:42:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1414109803291496452,
+    "tweet_time": "2024-11-13T16:31:47+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1414273270111559685,
+    "tweet_time": "2024-12-16T14:49:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1414685212303364098,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1415136464158003201,
+    "tweet_time": "2024-12-17T05:26:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1415192521999851520,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1416096802219216897,
+    "tweet_time": "2024-11-13T16:16:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1418827840280268806,
+    "tweet_time": "2024-11-13T04:32:34+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1418963400810541068,
+    "tweet_time": "2024-12-13T13:59:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1420569629341011969,
+    "tweet_time": "2024-12-14T06:29:24+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1420672562498052097,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1420963467968880642,
+    "tweet_time": "2024-11-14T20:19:38+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1421125270099087360,
+    "tweet_time": "2024-12-14T19:04:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1421633713079611397,
+    "tweet_time": "2024-11-14T22:52:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1425700385394622465,
+    "tweet_time": "2024-12-16T23:56:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1426269828411576325,
+    "tweet_time": "2024-11-15T10:01:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1427326863286980612,
+    "tweet_time": "2024-12-17T14:07:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1427612019591573513,
+    "tweet_time": "2024-11-15T07:54:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1428384410622210057,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-13T09:01:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T02:16:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T02:18:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T02:21:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T02:22:57+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T02:24:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T09:11:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1432126974361673729,
+    "tweet_time": "2024-11-14T10:59:28+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1433879624220647429,
+    "tweet_time": "2024-11-15T04:43:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1443628717033545729,
+    "tweet_time": "2024-12-24T17:00:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1446399506925379587,
+    "tweet_time": "2024-12-17T14:13:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1446939802218086400,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1448002600385794057,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1448280418084655105,
+    "tweet_time": "2024-12-17T00:47:48+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1453231098503249920,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1457947013182599174,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1458669019410534401,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1460281461572091913,
+    "tweet_time": "2024-11-12T03:23:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1461028560706097261,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1461878489875988485,
+    "tweet_time": "2024-12-24T17:26:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1462218429008515074,
+    "tweet_time": "2024-11-15T05:31:23+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1473590058699554816,
+    "tweet_time": "2024-12-24T12:10:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1473590058699554816,
+    "tweet_time": "2024-12-26T11:51:53+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1474351606636421143,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1475575699247407115,
+    "tweet_time": "2024-11-14T23:13:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1479779860222517250,
+    "tweet_time": "2024-11-13T18:43:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1479934940359843841,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1481705426165063681,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1482431909653327876,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1486367260075859979,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1487902326413217794,
+    "tweet_time": "2024-12-16T21:06:10+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1488942484226932741,
+    "tweet_time": "2024-12-16T15:37:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1489980195851456518,
+    "tweet_time": "2024-11-14T03:41:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1497837018583384065,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1499815819655761922,
+    "tweet_time": "2024-12-17T10:00:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1499892966869110793,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1499896072214401028,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1501789371703316481,
+    "tweet_time": "2024-11-15T06:37:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1502373329239482368,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1504416518746128384,
+    "tweet_time": "2024-12-11T22:17:41+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1504457875581677569,
+    "tweet_time": "2024-11-13T20:01:41+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1504457875581677569,
+    "tweet_time": "2024-11-13T20:18:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1504457875581677569,
+    "tweet_time": "2024-11-13T20:18:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1505126375182966785,
+    "tweet_time": "2024-12-17T08:27:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1506696275089137665,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1506703364687597579,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1512702958206476294,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1512817045393616900,
+    "tweet_time": "2024-11-15T02:14:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1514499719820906496,
+    "tweet_time": "2024-12-15T06:48:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1514928694099423232,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1515356418420977672,
+    "tweet_time": "2024-12-17T05:28:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1515991624526012420,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1516132619947323402,
+    "tweet_time": "2024-12-23T05:58:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1517033004685742081,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1517970938632962048,
+    "tweet_time": "2024-11-13T05:26:01+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1518789275176767489,
+    "tweet_time": "2024-11-14T23:30:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1519051375669387264,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1519092658047574017,
+    "tweet_time": "2024-12-16T15:37:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1519359849100103680,
+    "tweet_time": "2024-12-23T13:37:39+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1519372974905831429,
+    "tweet_time": "2024-11-15T11:12:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1521582380460351488,
+    "tweet_time": "2024-12-16T19:37:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1524516870304374787,
+    "tweet_time": "2024-11-13T05:27:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1524516870304374787,
+    "tweet_time": "2024-11-13T17:28:59+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1524949164458655806,
+    "tweet_time": "2024-12-17T09:02:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1526345258799288320,
+    "tweet_time": "2024-12-12T06:16:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1527280727661813761,
+    "tweet_time": "2024-12-17T00:31:29+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1528494889612492800,
+    "tweet_time": "2024-12-24T03:53:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1530235004143423488,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1532069280694431744,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1532388793810026496,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1532902825696575490,
+    "tweet_time": "2024-12-17T02:07:20+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1535237651921444865,
+    "tweet_time": "2024-12-14T05:22:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1536906448533266432,
+    "tweet_time": "2024-12-17T02:24:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1539995621842493440,
+    "tweet_time": "2024-12-17T04:06:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1540114529245204480,
+    "tweet_time": "2024-12-17T02:57:32+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1540145045302456320,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1541169390162526208,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1541870366976462849,
+    "tweet_time": "2024-12-17T11:42:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1543992359393759237,
+    "tweet_time": "2024-12-12T21:06:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1544307418267467776,
+    "tweet_time": "2024-11-13T07:09:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1544524770401611776,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1544998361320890368,
+    "tweet_time": "2024-12-13T05:32:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1547069623933100034,
+    "tweet_time": "2024-12-12T12:18:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1548841984881995776,
+    "tweet_time": "2024-11-11T04:04:39+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1552996464883863552,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1558071840358051843,
+    "tweet_time": "2024-12-15T22:14:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1559779148880568320,
+    "tweet_time": "2024-11-13T00:19:41+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1562419619041648646,
+    "tweet_time": "2024-12-17T12:50:37+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1562922072136749057,
+    "tweet_time": "2024-11-15T10:36:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1564278856336433163,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1564690459489980418,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1567966188994453504,
+    "tweet_time": "2024-11-13T03:54:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1569362476872998912,
+    "tweet_time": "2024-11-12T18:30:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1572741495236575232,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1573362186788937729,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1573362186788937729,
+    "tweet_time": "2024-12-21T11:38:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1576960745111158785,
+    "tweet_time": "2024-12-26T13:34:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1577216130887741440,
+    "tweet_time": "2024-12-27T06:30:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1578609984212209665,
+    "tweet_time": "2024-12-13T07:22:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1579311342225215488,
+    "tweet_time": "2024-12-12T20:29:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1581531696041791491,
+    "tweet_time": "2024-11-15T08:17:22+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1581721308211171328,
+    "tweet_time": "2024-11-15T11:40:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1582061261512232960,
+    "tweet_time": "2024-11-09T21:55:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1582579145300746240,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1582810407265529856,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1582829288591659023,
+    "tweet_time": "2024-12-17T06:09:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1584513046726131712,
+    "tweet_time": "2024-11-14T12:32:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1585839532532170757,
+    "tweet_time": "2024-12-17T06:47:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1585888835929767938,
+    "tweet_time": "2024-11-15T10:06:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1586930008416833538,
+    "tweet_time": "2024-12-13T02:55:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1587153371479347200,
+    "tweet_time": "2024-12-16T20:05:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1588153936355250177,
+    "tweet_time": "2024-12-17T11:31:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1589396751516999680,
+    "tweet_time": "2024-12-13T08:18:36+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1590386883871342593,
+    "tweet_time": "2024-11-14T04:55:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1590422034730962945,
+    "tweet_time": "2024-12-15T00:32:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1591464956578463745,
+    "tweet_time": "2024-12-12T10:51:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1593595163032817666,
+    "tweet_time": "2024-12-17T01:49:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1594738897128415234,
+    "tweet_time": "2024-11-15T01:04:08+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1594882982375874561,
+    "tweet_time": "2024-11-15T02:47:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1595989930240770048,
+    "tweet_time": "2024-11-15T02:01:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1596066536426737665,
+    "tweet_time": "2024-12-17T08:11:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1596112105157308416,
+    "tweet_time": "2024-11-15T10:55:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1596497906793693187,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1596631545216962560,
+    "tweet_time": "2024-12-17T00:35:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1597314052832755712,
+    "tweet_time": "2024-11-13T10:34:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1597756206508118017,
+    "tweet_time": "2024-12-17T03:20:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1598398735603695639,
+    "tweet_time": "2024-11-15T05:24:13+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1598632593636966400,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1600069412039671815,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1600260766422257665,
+    "tweet_time": "2024-12-17T08:22:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1600260766422257665,
+    "tweet_time": "2024-12-17T09:28:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1600913754354585601,
+    "tweet_time": "2024-11-10T14:22:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1601261120144146432,
+    "tweet_time": "2024-11-13T14:50:28+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1603130131882688514,
+    "tweet_time": "2024-12-16T18:48:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1605125682169712640,
+    "tweet_time": "2024-11-15T08:31:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1605433256572342272,
+    "tweet_time": "2024-11-11T14:02:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1605898084818599937,
+    "tweet_time": "2024-12-10T20:39:13+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T11:58:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T11:59:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T12:28:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T14:19:08+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T14:42:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T15:41:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T17:46:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-11T18:42:50+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T11:46:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T11:47:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T11:47:47+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:13:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:15:57+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:16:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:17:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:17:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T12:24:27+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T13:01:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T13:05:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T13:06:22+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T13:14:08+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T13:19:36+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T14:07:24+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T14:11:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-12T14:12:22+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T11:51:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T11:51:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T11:56:07+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:23:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:23:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:25:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:25:48+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:31:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-13T12:31:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T02:53:10+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T08:46:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T08:51:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T10:57:41+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T10:58:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T11:45:32+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T11:51:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T12:34:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T13:16:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T14:10:39+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-14T14:49:01+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-15T13:28:48+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T11:38:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T11:38:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T11:38:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T11:44:32+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:12:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:27:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:28:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:31:42+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:31:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:32:06+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:32:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:32:55+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:33:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:33:27+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:33:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T13:48:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T14:03:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T14:08:10+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T14:59:31+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:42:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:42:27+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:42:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:42:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:42:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1611734795977109506,
+    "tweet_time": "2024-12-16T18:43:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1612392494838304770,
+    "tweet_time": "2024-12-17T09:22:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1612648256562929665,
+    "tweet_time": "2024-12-26T13:30:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1614230502151540736,
+    "tweet_time": "2024-11-14T15:52:39+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1614270743893757952,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1614494951345094658,
+    "tweet_time": "2024-12-17T14:24:10+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1614638639933460483,
+    "tweet_time": "2024-12-14T07:54:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1615719336580087810,
+    "tweet_time": "2024-12-15T17:00:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1616509662911950849,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1618563672653107201,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1619719446016450561,
+    "tweet_time": "2024-12-26T12:03:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1620355638307225600,
+    "tweet_time": "2024-11-15T08:01:04+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1621040837806243841,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1621534871561670656,
+    "tweet_time": "2024-12-23T19:43:05+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1622047654707445760,
+    "tweet_time": "2024-11-09T16:09:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1623820846371315715,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1625729650205896707,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1626053115773583361,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1627798670128123904,
+    "tweet_time": "2024-12-13T15:57:15+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1628118160204533760,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1633793328230563840,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1634395959219159040,
+    "tweet_time": "2024-12-13T16:22:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1634803483848110081,
+    "tweet_time": "2024-11-08T15:16:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1634803483848110081,
+    "tweet_time": "2024-11-08T15:16:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1634803483848110081,
+    "tweet_time": "2024-11-08T15:17:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1635778092814745602,
+    "tweet_time": "2024-12-16T23:25:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1636084479646392320,
+    "tweet_time": "2024-12-17T12:48:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1637065819955019777,
+    "tweet_time": "2024-12-26T07:53:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1639010283103420418,
+    "tweet_time": "2024-11-14T23:25:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1639463444553379841,
+    "tweet_time": "2024-12-12T14:37:05+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1641417846587572224,
+    "tweet_time": "2024-12-17T00:15:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1643154324825022465,
+    "tweet_time": "2024-11-08T15:16:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1643154324825022465,
+    "tweet_time": "2024-11-08T15:16:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1643154324825022465,
+    "tweet_time": "2024-11-08T15:17:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1644185144679383041,
+    "tweet_time": "2024-12-14T13:47:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1646281097553092609,
+    "tweet_time": "2024-12-17T12:55:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1647071482588155906,
+    "tweet_time": "2024-12-17T05:21:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1647098871917543425,
+    "tweet_time": "2024-11-15T04:52:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1647773805933215746,
+    "tweet_time": "2024-11-14T15:08:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1652658923017744385,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1653006628806078464,
+    "tweet_time": "2024-11-11T04:46:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1653446213424009217,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1658147516968316928,
+    "tweet_time": "2024-12-17T06:03:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1658531735448035333,
+    "tweet_time": "2024-12-13T18:55:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1660588203613782016,
+    "tweet_time": "2024-12-14T11:40:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1664045021312479234,
+    "tweet_time": "2024-12-13T04:42:48+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1666590254156124161,
+    "tweet_time": "2024-12-10T19:09:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1667636176533221376,
+    "tweet_time": "2024-12-17T05:17:07+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1669951677577965568,
+    "tweet_time": "2024-12-16T05:30:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1670070814387888128,
+    "tweet_time": "2024-12-13T16:14:28+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1671538075103793154,
+    "tweet_time": "2024-12-17T13:40:56+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1674896509911855104,
+    "tweet_time": "2024-11-11T22:58:48+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1676283137385730048,
+    "tweet_time": "2024-12-24T14:45:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1677332482524430344,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1677638885046910977,
+    "tweet_time": "2024-11-15T05:54:53+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1679847000316207106,
+    "tweet_time": "2024-12-17T10:36:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1680648659229188098,
+    "tweet_time": "2024-11-15T00:40:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1681936374461767680,
+    "tweet_time": "2024-11-08T15:16:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1682967250192715777,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1683244357158072321,
+    "tweet_time": "2024-11-11T17:04:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1683521067946770432,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1683844501775978497,
+    "tweet_time": "2024-11-08T15:17:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1684388388252573697,
+    "tweet_time": "2024-11-15T02:14:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1684453864618201088,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1684927719144820737,
+    "tweet_time": "2024-12-17T04:08:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1685334138469949440,
+    "tweet_time": "2024-12-17T13:32:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1685355681505751042,
+    "tweet_time": "2024-11-15T01:13:39+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1691795144788561921,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1692295779434807299,
+    "tweet_time": "2024-12-17T13:36:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1695377477781291008,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1696147712838635521,
+    "tweet_time": "2024-12-10T16:26:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1696525165667168256,
+    "tweet_time": "2024-12-17T12:47:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1697789743365275648,
+    "tweet_time": "2024-12-17T05:21:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1698705787164499968,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1699138605761884160,
+    "tweet_time": "2024-11-14T23:52:28+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1705563938253938688,
+    "tweet_time": "2024-12-27T11:06:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1708270059121000448,
+    "tweet_time": "2024-11-15T09:26:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1708291433436688384,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1709923493805191168,
+    "tweet_time": "2024-12-17T08:23:14+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1710211861621415936,
+    "tweet_time": "2024-12-17T11:03:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1710590461570883584,
+    "tweet_time": "2024-12-17T02:05:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1711304218185809921,
+    "tweet_time": "2024-12-16T22:28:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1711783178560479232,
+    "tweet_time": "2024-11-14T12:32:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1712310157915676672,
+    "tweet_time": "2024-11-15T07:55:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1712488259274612736,
+    "tweet_time": "2024-11-15T01:34:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1713563837843349504,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1713741274661220352,
+    "tweet_time": "2024-12-26T14:03:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1713741274661220352,
+    "tweet_time": "2024-12-27T14:33:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1716911523485114368,
+    "tweet_time": "2024-11-15T09:22:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1717286826434527232,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1718154356821045248,
+    "tweet_time": "2024-12-24T04:30:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1720039048603906048,
+    "tweet_time": "2024-12-17T11:24:07+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1723505721805828096,
+    "tweet_time": "2024-11-15T06:25:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1723656681001832448,
+    "tweet_time": "2024-12-26T18:05:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1724356361222504448,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1726602069082034176,
+    "tweet_time": "2024-11-12T07:52:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1727965046054264832,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1728526579532447747,
+    "tweet_time": "2024-12-17T09:51:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1728661513110720512,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1729053094162350080,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1730928429103734784,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1730998421799243776,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1731623907558408192,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1731838558380707840,
+    "tweet_time": "2024-12-12T05:40:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1734844611959705600,
+    "tweet_time": "2024-12-11T14:56:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1736021787841089536,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1736369410657402880,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1737366061559808000,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1738181285221126144,
+    "tweet_time": "2024-12-17T10:40:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1739728951788875776,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1740070668132102144,
+    "tweet_time": "2024-12-13T19:27:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1740817132105961472,
+    "tweet_time": "2024-12-11T20:01:42+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1741711997815881728,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1741809737480736768,
+    "tweet_time": "2024-12-11T10:35:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1742150195511513088,
+    "tweet_time": "2024-11-14T08:08:30+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1743545391000461313,
+    "tweet_time": "2024-11-10T06:48:15+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1746105512662597632,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1746192991965028352,
+    "tweet_time": "2024-12-17T14:46:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1747826260774977536,
+    "tweet_time": "2024-12-17T05:21:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1748095024729092096,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1748750318794686464,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1749334059183120384,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1749403956479193088,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1749459509939183616,
+    "tweet_time": "2024-11-10T04:05:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1749794804177760256,
+    "tweet_time": "2024-12-17T10:48:38+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1749794804177760256,
+    "tweet_time": "2024-12-17T10:55:34+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1749794804177760256,
+    "tweet_time": "2024-12-17T11:35:26+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1750592357999751168,
+    "tweet_time": "2024-11-12T22:16:51+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1751840004903747584,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1752942638758785024,
+    "tweet_time": "2024-12-17T12:46:36+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1753690649071882240,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1755590110316310528,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1755727388644958208,
+    "tweet_time": "2024-12-17T06:07:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1756668397356564481,
+    "tweet_time": "2024-12-11T06:27:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1756722449100759040,
+    "tweet_time": "2024-12-12T04:21:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1757092014363906048,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1757380331831775232,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1757475393039134720,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1757564780708044800,
+    "tweet_time": "2024-11-09T07:32:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1757564780708044800,
+    "tweet_time": "2024-11-09T19:53:23+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1757568140115120129,
+    "tweet_time": "2024-12-17T03:43:04+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1758510510713053184,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1759178304727195648,
+    "tweet_time": "2024-11-15T11:15:42+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1760159109414830080,
+    "tweet_time": "2024-11-15T08:07:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1760710006725562368,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1761030816933486592,
+    "tweet_time": "2024-12-17T10:32:24+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1762275230637068288,
+    "tweet_time": "2024-12-12T23:45:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1763503773077426176,
+    "tweet_time": "2024-11-11T13:25:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1763503773077426176,
+    "tweet_time": "2024-11-12T08:10:40+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1766327703987515392,
+    "tweet_time": "2024-11-15T09:17:49+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1766327703987515392,
+    "tweet_time": "2024-11-15T09:18:27+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1766327703987515392,
+    "tweet_time": "2024-12-16T16:50:03+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1766576454291079168,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1767071353482461184,
+    "tweet_time": "2024-11-08T17:11:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1767785832881041408,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1769421526825078784,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1770724411735244800,
+    "tweet_time": "2024-12-11T08:15:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1771030577799733248,
+    "tweet_time": "2024-12-16T10:18:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1771403709991485440,
+    "tweet_time": "2024-12-11T13:51:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1771415051276283904,
+    "tweet_time": "2024-12-11T03:43:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1771854897878896640,
+    "tweet_time": "2024-11-08T17:15:04+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1772195043098468352,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1772828286080397312,
+    "tweet_time": "2024-12-16T20:20:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1773223332051038208,
+    "tweet_time": "2024-12-17T12:00:58+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1774033086277193728,
+    "tweet_time": "2024-12-12T17:04:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1777728783585595392,
+    "tweet_time": "2024-11-15T02:27:20+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1778101937495322624,
+    "tweet_time": "2024-11-11T13:25:54+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1778777359212220416,
+    "tweet_time": "2024-12-16T02:23:20+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1779141072850927616,
+    "tweet_time": "2024-12-17T05:21:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1781857417124573184,
+    "tweet_time": "2024-11-15T08:59:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1782310407094370304,
+    "tweet_time": "2024-12-27T06:36:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1782310407094370304,
+    "tweet_time": "2024-12-27T06:40:13+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1782310407094370304,
+    "tweet_time": "2024-12-27T06:43:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1784443168735260672,
+    "tweet_time": "2024-12-17T05:21:40+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1784643843951849472,
+    "tweet_time": "2024-11-15T05:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1788510252880580610,
+    "tweet_time": "2024-11-13T11:31:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1789362314656780288,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1792599566937739264,
+    "tweet_time": "2024-12-14T06:22:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1792801738279268352,
+    "tweet_time": "2024-12-14T22:48:06+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1793913934002495488,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1794230684153737216,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1795057243504979968,
+    "tweet_time": "2024-11-08T15:17:08+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1796496077966966784,
+    "tweet_time": "2024-11-15T01:53:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1796708739573030912,
+    "tweet_time": "2024-11-15T01:04:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1797363619690340352,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1797540408886788098,
+    "tweet_time": "2024-12-26T12:08:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1798401367146450945,
+    "tweet_time": "2024-12-24T17:14:46+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1799043472827240448,
+    "tweet_time": "2024-12-21T23:43:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1799043472827240448,
+    "tweet_time": "2024-12-22T23:43:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1799043472827240448,
+    "tweet_time": "2024-12-24T00:19:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1799043472827240448,
+    "tweet_time": "2024-12-27T03:37:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1799057228974157824,
+    "tweet_time": "2024-12-17T07:23:16+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1799385208766021633,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1799804098000101376,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1799881143694602240,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1800379257182625792,
+    "tweet_time": "2024-12-17T03:57:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1800923200466952196,
+    "tweet_time": "2024-12-12T21:41:52+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1801940776592576512,
+    "tweet_time": "2024-12-13T05:49:09+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1802050256290332672,
+    "tweet_time": "2024-12-14T21:24:19+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1802291082199441408,
+    "tweet_time": "2024-11-15T09:33:51+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1804321120197447681,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1804408688377208832,
+    "tweet_time": "2024-12-17T11:28:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1804522210201104384,
+    "tweet_time": "2024-11-08T15:16:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1805455741593026560,
+    "tweet_time": "2024-12-17T00:47:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1805618411055001600,
+    "tweet_time": "2024-12-16T19:59:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1805845652334854146,
+    "tweet_time": "2024-12-25T05:30:32+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1806757297336856576,
+    "tweet_time": "2024-11-13T04:13:38+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1807065192460636160,
+    "tweet_time": "2024-12-13T13:40:50+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1807162961892392960,
+    "tweet_time": "2024-12-10T20:15:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1810231745012535296,
+    "tweet_time": "2024-12-17T04:31:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1811330592585207808,
+    "tweet_time": "2024-11-15T10:58:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1811777403318120448,
+    "tweet_time": "2024-12-27T14:00:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1812516221444558848,
+    "tweet_time": "2024-11-13T20:18:35+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1813650369257566209,
+    "tweet_time": "2024-11-15T10:56:27+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1814394838701191168,
+    "tweet_time": "2024-12-27T00:13:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1814756647409229824,
+    "tweet_time": "2024-12-17T05:34:36+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1814915436422836225,
+    "tweet_time": "2024-11-15T10:21:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1815406746912870400,
+    "tweet_time": "2024-12-12T10:14:33+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1815502241786454016,
+    "tweet_time": "2024-12-16T23:56:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1815705655203786752,
+    "tweet_time": "2024-12-13T20:00:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1815820558560550913,
+    "tweet_time": "2024-11-15T06:49:50+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1816592681876725760,
+    "tweet_time": "2024-12-16T23:48:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1817152782824054784,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1817167066472062976,
+    "tweet_time": "2024-12-17T04:48:14+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1817658096069525504,
+    "tweet_time": "2024-12-16T21:46:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1817667540048326657,
+    "tweet_time": "2024-11-08T19:32:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1817845485186772992,
+    "tweet_time": "2024-12-17T09:53:42+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1818669433164115968,
+    "tweet_time": "2024-12-14T08:30:12+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1818717970954141696,
+    "tweet_time": "2024-11-12T22:58:41+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1818948203829690368,
+    "tweet_time": "2024-11-08T13:26:16+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1819665133586530304,
+    "tweet_time": "2024-11-15T03:00:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1820019849562882048,
+    "tweet_time": "2024-12-27T02:32:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1822693890123546624,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1822696289219289088,
+    "tweet_time": "2024-12-13T04:13:21+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1822981705843523587,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1823005579071377408,
+    "tweet_time": "2024-12-13T20:21:35+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1823005579071377408,
+    "tweet_time": "2024-12-13T23:24:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1823268221056925696,
+    "tweet_time": "2024-12-17T08:30:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1823739279907880960,
+    "tweet_time": "2024-12-22T14:38:54+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1824034464395317248,
+    "tweet_time": "2024-11-15T03:52:05+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1825345602743361536,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1825430669084008448,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1825866616254480384,
+    "tweet_time": "2024-12-17T12:02:14+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1827001300430544896,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1827292823684534272,
+    "tweet_time": "2024-11-15T04:41:50+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1827663657729150977,
+    "tweet_time": "2024-12-15T14:33:29+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1828470626295705615,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1828496475229192192,
+    "tweet_time": "2024-11-15T02:09:39+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1828618767678513152,
+    "tweet_time": "2024-12-15T01:36:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1828779637360463872,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1828901476405739520,
+    "tweet_time": "2024-11-11T09:22:49+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1828992897360044032,
+    "tweet_time": "2024-11-13T00:46:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1830494467347873792,
+    "tweet_time": "2024-11-13T17:37:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1831376588316741632,
+    "tweet_time": "2024-11-13T05:31:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1831414319516647424,
+    "tweet_time": "2024-11-13T08:49:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1832059614923575296,
+    "tweet_time": "2024-12-17T13:51:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1833757667426459648,
+    "tweet_time": "2024-11-15T00:45:17+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1834195253554712576,
+    "tweet_time": "2024-12-17T12:37:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1834441409182437376,
+    "tweet_time": "2024-12-13T06:02:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1835063637213339648,
+    "tweet_time": "2024-11-15T11:53:10+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1835821842432393216,
+    "tweet_time": "2024-11-15T11:51:07+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1836629199924101120,
+    "tweet_time": "2024-11-15T07:30:19+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1838292586349621248,
+    "tweet_time": "2024-11-13T08:49:55+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1838933382027235328,
+    "tweet_time": "2024-11-11T16:33:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1838980206721380352,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1839318947554103297,
+    "tweet_time": "2024-12-14T19:04:52+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1839901280476770304,
+    "tweet_time": "2024-12-11T17:42:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1840641460204457984,
+    "tweet_time": "2024-12-16T17:45:29+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1840683597713592320,
+    "tweet_time": "2024-12-12T00:00:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1841021037242355712,
+    "tweet_time": "2024-12-11T09:23:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1843233198471323648,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1843556660557824000,
+    "tweet_time": "2024-11-13T10:25:11+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1845802586806337546,
+    "tweet_time": "2024-12-27T12:41:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1846265971952308225,
+    "tweet_time": "2024-11-12T23:31:46+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1846334604384325632,
+    "tweet_time": "2024-11-15T10:35:43+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1846861973172178944,
+    "tweet_time": "2024-11-15T09:29:13+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1846984597055369216,
+    "tweet_time": "2024-12-26T14:44:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1847060675526643712,
+    "tweet_time": "2024-12-17T13:34:42+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1847060675526643712,
+    "tweet_time": "2024-12-17T13:35:03+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1847362741172088832,
+    "tweet_time": "2024-11-13T18:14:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1847761209266761729,
+    "tweet_time": "2024-12-17T13:22:18+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1849285646768132098,
+    "tweet_time": "2024-11-10T05:34:11+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1849624273796857858,
+    "tweet_time": "2024-12-15T14:57:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1849829107519156224,
+    "tweet_time": "2024-11-13T06:04:02+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1850167308745900032,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1850615255682228224,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1850636799539900416,
+    "tweet_time": "2024-12-17T11:55:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1850643328154640384,
+    "tweet_time": "2024-11-10T21:57:31+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1851620738035245056,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1851848932030349312,
+    "tweet_time": "2024-11-15T07:58:07+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1852212666242142208,
+    "tweet_time": "2024-12-17T06:29:25+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1852751195061805056,
+    "tweet_time": "2024-11-10T13:55:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1852751195061805056,
+    "tweet_time": "2024-11-10T14:01:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1853245176732631040,
+    "tweet_time": "2024-11-13T16:22:44+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1853729132825194496,
+    "tweet_time": "2024-11-15T09:29:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1853852690679476224,
+    "tweet_time": "2024-12-11T21:39:43+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1854783618297561088,
+    "tweet_time": "2024-12-17T04:01:00+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1854941537966473216,
+    "tweet_time": "2024-12-12T19:47:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1855131473990328320,
+    "tweet_time": "2024-12-11T05:07:58+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1855658941574950912,
+    "tweet_time": "2024-12-14T16:54:00+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1855958414112817152,
+    "tweet_time": "2024-11-13T01:00:01+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1856320231301394432,
+    "tweet_time": "2024-12-16T23:36:57+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1856611799220793346,
+    "tweet_time": "2024-11-14T15:41:09+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1856819197558321152,
+    "tweet_time": "2024-12-10T19:00:45+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1856819197558321152,
+    "tweet_time": "2024-12-12T18:01:37+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1857303613946961920,
+    "tweet_time": "2024-11-15T06:55:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1857319661370576896,
+    "tweet_time": "2024-11-15T04:45:13+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1857979677966483456,
+    "tweet_time": "2024-12-16T21:16:42+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1859146105558097920,
+    "tweet_time": "2024-12-17T06:01:59+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1859536574280507392,
+    "tweet_time": "2024-12-10T15:46:39+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1860421086178902017,
+    "tweet_time": "2024-12-17T08:01:44+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1861135921770356736,
+    "tweet_time": "2024-12-21T18:26:25+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1861949424425132032,
+    "tweet_time": "2024-12-11T04:36:06+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1862137741611507712,
+    "tweet_time": "2024-12-15T14:04:21+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1862751803810713600,
+    "tweet_time": "2024-12-16T04:17:01+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1864156977770754048,
+    "tweet_time": "2024-12-11T11:19:17+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1864353927245840384,
+    "tweet_time": "2024-12-17T11:42:12+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1864953707592642560,
+    "tweet_time": "2024-12-12T17:32:22+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1865144757267091456,
+    "tweet_time": "2024-12-17T08:28:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1866011550408159232,
+    "tweet_time": "2024-12-23T11:28:26+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1866143499881418752,
+    "tweet_time": "2024-12-17T13:15:33+00:00",
+    "fact_check": "fake"
+  },
+  {
+    "author_id": 1866785883678023681,
+    "tweet_time": "2024-12-11T10:44:18+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1868196969572679680,
+    "tweet_time": "2024-12-17T09:55:45+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1868429519356338176,
+    "tweet_time": "2024-12-16T18:10:02+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1868694662997065728,
+    "tweet_time": "2024-12-16T21:17:56+00:00",
+    "fact_check": "real"
+  },
+  {
+    "author_id": 1868847992633278466,
+    "tweet_time": "2024-12-17T03:35:18+00:00",
+    "fact_check": "real"
+  }
+]
